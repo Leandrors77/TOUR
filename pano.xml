@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node22" apprev="18043">
+  <panorama id="node22">
+    <input levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="1.89411" width="1520" levelingroll="-0.19696" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="169.77" projection="4" tilt="-0.4" fov="100"/>
+      <flyin pan="169.77" projection="4" tilt="-0.4" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node22" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto1 - Vista da rua" latitude="" datetime="14/09/2022 15:56" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Vistadarua|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-0.340013" skinid="ht_node" tilt="5.04" title="Forneria Giorgio - Foto2 - foto da rua - mais distante" target="" description="" id="Point01" url="{node21}"/>
+      <hotspot pan="-182.03" skinid="ht_node" tilt="-0.21" title="Forneria Giorgio - Foto3 - Área externa1" target="" description="" id="Point02" url="{node14}"/>
+      <polyhotspot title="(22) 3081-2505" target="_blank" description="Forneria Giorgio em Maricá" id="Poly01" url="">
+        <polystring>-140.96/21.25|-141.32/20.54|-141.64/20.14|-142.08/19.65|-142.39/19.3|-142.76/18.91|-143.19/18.46|-143.5/18.11|-144.14/17.68|-144.56/17.28|-145.15/16.79|-145.95/16.3|-146.41/16.06|-146.81/15.87|-147.31/15.63|-147.72/15.28|-148.33/15.09|-148.78/14.84|-149.39/14.65|-150.05/14.56|-151.1/14.53|-151.8/14.86|-152.62/15.18|-153.16/15.87|-153.66/16.2|-154.15/16.94|-154.48/17.58|-154.65/18.44|-154.87/19.67|-154.86/20.81|-154.56/21.78|-154.02/22.97|-153.53/24.37|-152.97/25.45|-152.28/26.31|-151.54/26.83|-150.78/27.62|-150.14/28.25|-149.19/28.91|-148.55/29.36|-147.83/29.86|-146.38/30.36|-145.37/30.61|-144.3/30.84|-143.5/30.87|-142.23/30.75|-141.1/30.57|-140.62/30.09|-139.66/29.29|-139.44/28.73|-139.1/27.84|-138.95/26.82|-138.95/26.02|-139.04/25.35|-139.13/24.67|-139.34/23.95|-139.62/23.13|-139.91/22.58|-140.27/21.98|-140.48/21.58|-140.67/21.38|-140.63/21.27</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound pan="-182.220" pansize="10.000" tiltsize="10.000" startmutedmobile="0" tilt="9.920" loop="3" field="90.000" id="Element01" level="0.700" mode="3" ambientlevel="0.200" nodechangekeep="0">
+        <source url="media/Tarantella_Neapoletana.mp3"/>
+      </sound>
+      <lensflare pan="-217.660" blinding="50.000" type="1" alpha="80.000" tilt="48.300" color="0xffffff" id="Lensflare01"/>
+    </media>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="176.28" projection="4" tilt="0" fov="100"/>
+      <flyin pan="176.28" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node21" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto2 - foto da rua - mais distante" latitude="" datetime="14/09/2022 15:55" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Vistadarua|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-183.4" skinid="ht_node" tilt="-0.43" title="Forneria Giorgio - Foto1 - Vista da rua" target="" description="" id="Point01" url="{node22}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="179.87" projection="4" tilt="0" fov="100"/>
+      <flyin pan="179.87" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node14" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto3 - Área externa1" latitude="" datetime="14/09/2022 15:50" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-4.75" skinid="ht_node" tilt="-0.43" title="Forneria Giorgio - Foto1 - Vista da rua" target="" description="" id="Point01" url="{node22}"/>
+      <hotspot pan="-92.3" skinid="ht_node" tilt="-0.35" title="Forneria Giorgio - Foto4 - Área externa2" target="" description="" id="Point02" url="{node13}"/>
+      <hotspot pan="-279.71" skinid="ht_node" tilt="-0.42" title="Forneria Giorgio - Foto8 - Área externa6" target="" description="" id="Point03" url="{node15}"/>
+      <hotspot pan="-180.01" skinid="ht_node" tilt="-0.2" title="Forneria Giorgio - Foto6 - Área externa4" target="" description="" id="Point04" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="2.14284" width="1520" levelingroll="2.41784" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-132.72" projection="4" tilt="0" fov="100"/>
+      <flyin pan="-132.72" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node13" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto4 - Área externa2" latitude="" datetime="14/09/2022 15:49" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-187.41" skinid="ht_node" tilt="3.4" title="Forneria Giorgio - Foto5 - Área externa3" target="" description="" id="Point01" url="{node12}"/>
+      <hotspot pan="-278.93" skinid="ht_node" tilt="0.22" title="Forneria Giorgio - Foto3 - Área externa1" target="" description="" id="Point02" url="{node14}"/>
+    </hotspots>
+    <media>
+      <image roty="-21.000" rotz="0.000" clickmode="1" pan="-119.950" handcursor="1" stretch="1.000" height="593" tilt="-3.210" rotx="0.000" width="413" id="Element01" fov="17.600">
+        <source url="media/Itália.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="2.38589" width="1520" levelingroll="2.66711" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-66.79" projection="4" tilt="-2.37" fov="75.56"/>
+      <flyin pan="-66.79" projection="4" tilt="-2.37" fov="75.56"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node12" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto5 - Área externa3" latitude="" datetime="14/09/2022 15:48" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-359.26" skinid="ht_node" tilt="-0.21" title="Forneria Giorgio - Foto4 - Área externa2" target="" description="" id="Point01" url="{node13}"/>
+      <hotspot pan="-268.2" skinid="ht_node" tilt="-0.22" title="Forneria Giorgio - Foto6 - Área externa4" target="" description="" id="Point02" url="{node11}"/>
+    </hotspots>
+    <media>
+      <image roty="0.000" rotz="89.000" clickmode="1" pan="-99.770" handcursor="1" stretch="1.000" height="201" tilt="-6.310" rotx="0.000" width="388" id="Element01" fov="26.690">
+        <source url="media/Bandeira da Itália.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="130.07" projection="4" tilt="-1.92" fov="100"/>
+      <flyin pan="130.07" projection="4" tilt="-1.92" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node11" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto6 - Área externa4" latitude="" datetime="14/09/2022 15:48" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-5.41" skinid="ht_node" tilt="-0.42" title="Forneria Giorgio - Foto3 - Área externa1" target="" description="" id="Point01" url="{node14}"/>
+      <hotspot pan="-98.31" skinid="ht_node" tilt="0" title="Forneria Giorgio - Foto5 - Área externa3" target="" description="" id="Point02" url="{node12}"/>
+      <hotspot pan="-188.87" skinid="ht_node" tilt="-0.43" title="Forneria Giorgio - Foto7 - Área externa5" target="" description="" id="Point03" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="176.96" projection="4" tilt="-5.89" fov="100"/>
+      <flyin pan="176.96" projection="4" tilt="-5.89" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node10" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto7 - Área externa5" latitude="" datetime="14/09/2022 15:48" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-0.2" skinid="ht_node" tilt="-1.24" title="Forneria Giorgio - Foto6 - Área externa4" target="" description="" id="Point01" url="{node11}"/>
+      <hotspot pan="-295.07" skinid="ht_node" tilt="-1.11" title="Forneria Giorgio - Foto12 - Área externa10" target="" description="" id="Point02" url="{node19}"/>
+      <hotspot pan="-182.19" skinid="ht_node" tilt="0.21" title="Forneria Giorgio - Foto13 - salão1" target="" description="" id="Point03" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="137.05" projection="4" tilt="-3" fov="100"/>
+      <flyin pan="137.05" projection="4" tilt="-3" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node15" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto8 - Área externa6" latitude="" datetime="14/09/2022 15:50" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-101.79" skinid="ht_node" tilt="1.25" title="Forneria Giorgio - Foto3 - Área externa1" target="" description="" id="Point01" url="{node14}"/>
+      <hotspot pan="-269.03" skinid="ht_node" tilt="0" title="Forneria Giorgio - Foto9 - Área externa7" target="" description="" id="Point02" url="{node16}"/>
+      <hotspot pan="-202.12" skinid="ht_node" tilt="-0.37" title="Forneria Giorgio - Foto11 - Área externa9" target="" description="" id="Point03" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-148.18" projection="4" tilt="0" fov="100"/>
+      <flyin pan="-148.18" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node16" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto9 - Área externa7" latitude="" datetime="14/09/2022 15:51" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-84.36" skinid="ht_node" tilt="-0.7" title="Forneria Giorgio - Foto8 - Área externa6" target="" description="" id="Point01" url="{node15}"/>
+      <hotspot pan="-188.33" skinid="ht_node" tilt="0.0599999" title="Forneria Giorgio - Foto10 - Área externa8" target="" description="" id="Point02" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-138.2" fovmode="0">
+      <start pan="-120.31" projection="4" tilt="1.64" fov="100"/>
+      <flyin pan="-120.31" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node17" heading="-138.2" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto10 - Área externa8" latitude="" datetime="14/09/2022 15:52" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-18.03" skinid="ht_node" tilt="-0.44" title="Forneria Giorgio - Foto9 - Área externa7" target="" description="" id="Point01" url="{node16}"/>
+      <hotspot pan="-136.09" skinid="ht_node" tilt="0.15" title="Forneria Giorgio - Foto11 - Área externa9" target="" description="" id="Point02" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="158.64" projection="4" tilt="0" fov="100"/>
+      <flyin pan="158.64" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node18" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto11 - Área externa9" latitude="" datetime="14/09/2022 15:52" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-328.39" skinid="ht_node" tilt="-0.37" title="Forneria Giorgio - Foto10 - Área externa8" target="" description="" id="Point01" url="{node17}"/>
+      <hotspot pan="-160.88" skinid="ht_node" tilt="-0.34" title="Forneria Giorgio - Foto12 - Área externa10" target="" description="" id="Point02" url="{node19}"/>
+      <hotspot pan="-39.82" skinid="ht_node" tilt="0.01" title="Forneria Giorgio - Foto8 - Área externa6" target="" description="" id="Point03" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node19" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto12 - Área externa10" latitude="" datetime="14/09/2022 15:53" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas|Areaexterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-90.33" skinid="ht_node" tilt="-8.53" title="Forneria Giorgio - Foto7 - Área externa5" target="" description="" id="Point01" url="{node10}"/>
+      <hotspot pan="-330.25" skinid="ht_node" tilt="-2.65" title="Forneria Giorgio - Foto11 - Área externa9" target="" description="" id="Point02" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-111.29" projection="4" tilt="-0.62" fov="100"/>
+      <flyin pan="-111.29" projection="4" tilt="-0.62" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node9" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto13 - salão1" latitude="" datetime="14/09/2022 15:47" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-307.93" skinid="ht_node" tilt="-9.41" title="Forneria Giorgio - Foto7 - Área externa5" target="" description="" id="Point01" url="{node10}"/>
+      <hotspot pan="-114.1" skinid="ht_node" tilt="-0.43" title="Forneria Giorgio - Foto14 - salão2" target="" description="" id="Point02" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0.32" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0.32" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node8" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto14 - salão2" latitude="" datetime="14/09/2022 15:43" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna|Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-172.44" skinid="ht_node" tilt="-1.03" title="Forneria Giorgio - Foto13 - salão1" target="" description="" id="Point01" url="{node9}"/>
+      <hotspot pan="-358.83" skinid="ht_node" tilt="-8.86" title="Forneria Giorgio - Foto15 - salão2" target="" description="" id="Point02" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-6.56" projection="4" tilt="-1.6" fov="100"/>
+      <flyin pan="-6.56" projection="4" tilt="-1.6" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node6" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto15 - salão2" latitude="" datetime="14/09/2022 15:42" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna|Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-6.69" skinid="ht_node" tilt="-6.16" title="Forneria Giorgio - Foto16 - salão2" target="" description="" id="Point01" url="{node5}"/>
+      <hotspot pan="-166.45" skinid="ht_node" tilt="2.22" title="Forneria Giorgio - Foto14 - salão2" target="" description="" id="Point02" url="{node8}"/>
+    </hotspots>
+    <media>
+      <sound pan="-93.820" pansize="10.000" tiltsize="10.000" startmutedmobile="0" tilt="1.350" loop="1" field="90.000" id="Element01" level="1.000" mode="3" ambientlevel="0.300" nodechangekeep="0">
+        <source url="media/Somdefogueira.mp3"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="34.28" projection="4" tilt="-3.63" fov="100"/>
+      <flyin pan="34.27" projection="4" tilt="-3.63" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node5" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto16 - salão2" latitude="" datetime="14/09/2022 15:42" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna|Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-165.64" skinid="ht_node" tilt="-0.22" title="Forneria Giorgio - Foto15 - salão2" target="" description="" id="Point01" url="{node6}"/>
+      <hotspot pan="-716.91" skinid="ht_node" tilt="-0.68" title="Forneria Giorgio - Foto17 - salão3" target="" description="" id="Point02" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-42.41" projection="4" tilt="0" fov="100"/>
+      <flyin pan="-42.41" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node4" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto17 - salão3" latitude="" datetime="14/09/2022 15:41" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna|Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-174.51" skinid="ht_node" tilt="-0.53" title="Forneria Giorgio - Foto16 - salão2" target="" description="" id="Point01" url="{node5}"/>
+      <hotspot pan="-18.96" skinid="ht_node" tilt="-0.44" title="Forneria Giorgio - Foto18 - salão3" target="" description="" id="Point02" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-49.56" projection="4" tilt="0" fov="100"/>
+      <flyin pan="-49.56" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node3" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto18 - salão3" latitude="" datetime="14/09/2022 15:41" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna|Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-4.86" skinid="ht_node" tilt="-0.74" title="Forneria Giorgio - Foto21 - salão3" target="" description="" id="Point01" url="{node26}"/>
+      <hotspot pan="-189.47" skinid="ht_node" tilt="-0.26" title="Forneria Giorgio - Foto17 - salão3" target="" description="" id="Point02" url="{node4}"/>
+      <hotspot pan="-91.22" skinid="ht_node" tilt="-0.61" title="Forneria Giorgio - Foto19 - salão3" target="" description="" id="Point03" url="{node2}"/>
+      <hotspot pan="-270.84" customimageheight="40" skinid="ht_video_youtube" tilt="11.24" title="Abrir o vídeo" target="" customimagewidth="58" customimage="media/Sem Título-2.png" distance3D="331.472" description="Pizza napoletana fatta in casa " use3D="0" id="Point04" fov="10" url="hWgzI-RcGaw"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-95.55" projection="4" tilt="0" fov="100"/>
+      <flyin pan="-95.55" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node2" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto19 - salão3" latitude="" datetime="14/09/2022 15:40" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna|Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-275.79" skinid="ht_node" tilt="-0.43" title="Forneria Giorgio - Foto18 - salão3" target="" description="" id="Point01" url="{node3}"/>
+      <hotspot pan="-3.7" skinid="ht_node" tilt="-2.01" title="Forneria Giorgio - Foto20 - salão3" target="" description="" id="Point02" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="128.23" projection="4" tilt="0" fov="100"/>
+      <flyin pan="128.23" projection="4" tilt="0" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node1" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto20 - salão3" latitude="" datetime="14/09/2022 15:40" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna|Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-184.19" skinid="ht_node" tilt="-0.43" title="Forneria Giorgio - Foto19 - salão3" target="" description="" id="Point01" url="{node2}"/>
+      <hotspot pan="-274.31" skinid="ht_node" tilt="-0.64" title="Forneria Giorgio - Foto21 - salão3" target="" description="" id="Point02" url="{node26}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbias="0.400" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-142.73" projection="4" tilt="-4.49" fov="100"/>
+      <flyin pan="-142.73" projection="4" tilt="-4.49" fov="100"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node26" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="Forneria Giorgio - Foto21 - salão3" latitude="" datetime="14/09/2022 15:39" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Areainterna|Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-194.69" skinid="ht_node" tilt="-0.85" title="Forneria Giorgio - Foto18 - salão3" target="" description="" id="Point01" url="{node3}"/>
+      <hotspot pan="-101.05" skinid="ht_node" tilt="-3.53" title="Forneria Giorgio - Foto20 - salão3" target="" description="" id="Point02" url="{node1}"/>
+      <hotspot pan="-7.19" skinid="ht_node" tilt="-0.43" title="IMG_20220914_153903_00_487.insp" target="" description="" id="Point03" url="{node25}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbias="0.400" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node25" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="IMG_20220914_153903_00_487.insp" latitude="" datetime="14/09/2022 15:39" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-184.99" skinid="ht_node" tilt="-2.83" title="IMG_20220914_153831_00_484.insp" target="" description="" id="Point01" url="{node24}"/>
+      <hotspot pan="-51.77" skinid="ht_node" tilt="-3.62" title="IMG_20220914_153831_00_484.insp" target="" description="" id="Point02" url="{node24}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node24" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="IMG_20220914_153831_00_484.insp" latitude="" datetime="14/09/2022 15:38" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-245.14" skinid="ht_node" tilt="0.09" title="IMG_20220914_153903_00_487.insp" target="" description="" id="Point01" url="{node25}"/>
+      <hotspot pan="-24.44" skinid="ht_node" tilt="-1.06" title="IMG_20220914_153802_00_481.insp" target="" description="" id="Point02" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="1520" levelingroll="0" overlap="1">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata nodeid="node23" heading="0" author="Leandro Rodrigues da Silva" copyright="LRDigital360" source="" title="IMG_20220914_153802_00_481.insp" latitude="" datetime="14/09/2022 15:38" comment="" description="Forneria Giorgio  - Macaé" longitude="" info="" tags="Fotos para tour editadas" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" backgroundalpha="1" height="20" textalpha="1" wordwrap="1" background="1" width="180" backgroundcolor="0xffffff" border="0" textcolor="0x000000" borderradius="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot pan="-110.64" skinid="ht_node" tilt="1.18" title="IMG_20220914_153831_00_484.insp" target="" description="" id="Point01" url="{node24}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomspeed="1" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomout="0"/>
+    <soundstransition crossfade="1" transitiontime="2" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" rubberband="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata nodeid="master" heading="0" author="" copyright="" source="" title="" latitude="" datetime="" comment="" description="" longitude="" info="" tags="" customnodeid=""/>
+  </masternode>
+</tour>
